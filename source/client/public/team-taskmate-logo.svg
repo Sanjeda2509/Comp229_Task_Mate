@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="250" viewBox="0 0 880 250">
+<rect width="880" height="250" rx="28" fill="#FFFFFF"/>
+<rect x="60" y="53" width="143" height="143" rx="37" fill="#6655E8"/>
+<path d="M101 130L122 151L168 102" stroke="white" stroke-width="15" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="164" cy="165" r="10" fill="#C8F277"/>
+<text x="229" y="145" font-family="DejaVu Sans, Arial, sans-serif" font-weight="bold" font-size="64" letter-spacing="-3" fill="#25243F">Team</text>
+<text x="408" y="145" font-family="DejaVu Sans, Arial, sans-serif" font-weight="bold" font-size="64" letter-spacing="-3" fill="#6655E8">TaskMate</text>
+<text x="233" y="179" font-family="DejaVu Sans, Arial, sans-serif" font-size="19" letter-spacing="3" fill="#89869C">COMP229 PROJECT TEAM</text>
+</svg>
